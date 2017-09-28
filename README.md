@@ -1,2 +1,4 @@
 # hajto-fortunes
-Fortunki z cytatami Tomasza "Truskawki" Hajty
+Fortunki z cytatami Tomasza "Truskawki" Hajty.
+
+### To są właśnie te detale.
